@@ -19,20 +19,7 @@ This project explores various edge detection techniques on images using the Open
 3. **Laplacian Edge Detection**:
   Applies the Laplacian operator to highlight rapid intensity changes.
 
-4. **Kirsch Edge Detection**:
-  Uses the Kirsch mask for edge detection.
 
-5. **Robinson Edge Detection**:
-  Applies the Robinson mask for edge detection.
-
-6. **Prewitt Edge Detection**:
-  Uses the Prewitt operator for edge detection.
-
-7. **Roberts Edge Detection**:
-  Applies the Roberts cross operator for edge detection.
-
-8. **Canny Edge Overlay**:
-  Overlays the Canny edge detection results on the original image.
 
 
 ## Results
@@ -44,5 +31,14 @@ Original Image
 
 Canny Edge Detection
 ![tada2](https://github.com/user-attachments/assets/f81bde91-68d3-4155-aed7-2dd0199b5192)
+
+Sobel Edge Detection
+![sobel](https://github.com/user-attachments/assets/fd20f44a-14ea-4399-b878-832f436c2b32)
+
+Laplacian Edge Detection
+![lapcian](https://github.com/user-attachments/assets/3ab0ce90-ed51-4953-8687-6313aff99117)
+
+
+
 
 
