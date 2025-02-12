@@ -37,53 +37,12 @@ This project explores various edge detection techniques on images using the Open
 
 ## Results
 
+Original
 
-1. **Original**
+Original Image
+![tada1](https://github.com/user-attachments/assets/ae52e508-85aa-4949-b723-60af8bc82188)
 
-   
-   ![Original Image](results/original.png)
-
-
-2. **Canny Edge Detection**
-
-   
-   ![Grayscale Image](results/canny.png)
-
-3. **Sobel Edge Detection**
-
-   
-   ![Cartoonized Image](results/sobel.png)
-
-4. **Laplacian Edge Detection**
-
-   
-   ![Blurred Image](results/lapcian.png)
+Canny Edge Detection
+![tada2](https://github.com/user-attachments/assets/f81bde91-68d3-4155-aed7-2dd0199b5192)
 
 
-5. **Kirsch Edge Detection**
-
-   
-   ![Sharpened Image](results/kirsch.png)
-
-6. **Robinson Edge Detection**
-
-    
-   ![Edge Image](results/robinson.png)
-
-
-7. **Prewitt Edge Detection**
-
-    
-   ![Inverted Colors Image](results/prewitt.png)
-
-
-8. **Roberts Edge Detection**
-
-    
-   ![Pixelated Image](results/roberts.png)
-
-
-9. **Canny Edge Overlay**
-
-    
-   ![Thermal Vision Image](results/overlay.png)
